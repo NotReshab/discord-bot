@@ -1,18 +1,4 @@
-﻿
-/**********************************************************
- * @INFO  [TABLE OF CONTENTS]
- * 1  Import_Modules
-   * 1.1 Validating script for advertisement
- * 2  CREATE_THE_DISCORD_BOT_CLIENT
- * 3  Load_Discord_Buttons_and_Discord_Menus
- * 4  Create_the_client.memer
- * 5  create_the_languages_objects
- * 6  Raise_the_Max_Listeners
- * 8  LOAD_the_BOT_Functions
- * 9  Login_to_the_Bot
- * 
- *   BOT CODED BY: TOMato6966 | https://milrato.dev
- *********************************************************/
+
 
 
 
